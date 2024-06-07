@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "name": "IFitBit Charge 5",
+      "description": "Умный браслет с функциями отслеживания активности, сердечного ритма и сна. Имеет GPS и водозащиту",
+      "price": "$150",
+      "image": "https://i.pinimg.com/564x/5c/45/79/5c4579197f589260995c4fec238f226c.jpg",
+      "type": "Умный браслет",
+      "id": 1
+    },
+    {
+      "name": "Bose Sport Earbuds",
+      "description": "Беспроводные наушники с отличным звуком и влагозащитой. Подходят для занятий спортом и тренировок.",
+      "price": "$179",
+      "image": "https://i.pinimg.com/564x/e5/ac/ad/e5acad6472c0bd9794debc1d1c714361.jpg",
+      "type": "Беспроводные наушники",
+      "id": 2
+    },
+    {
+      "name": "Hydracy Fruit Infuser Water Bottle",
+      "description": "Прочная бутылка для воды с отсеком для фруктов для создания освежающих напитков с натуральным вкусом.",
+      "price": "$19.99",
+      "image": "https://i.pinimg.com/736x/df/ac/a3/dfaca38b1f5e64548b86f3c163bdc62a.jpg",
+      "type": "Бутылка для воды",
+      "id": 3
+    },
+    {
+      "name": "Liforme Yoga Mat",
+      "description": "Включает в себя гантели разного веса, резиновые растяжки, ленту для йоги и для упражнений.",
+      "price": "$149",
+      "image": "https://i.pinimg.com/564x/15/e3/9a/15e39aa125b9e591442ca6bad589397a.jpg",
+      "type": "Бутылка для воды",
+      "id": 4
+    }
+  ]
+}
